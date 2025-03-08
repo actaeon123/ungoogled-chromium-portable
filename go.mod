@@ -1,4 +1,4 @@
-module github.com/portapps/ungoogled-chromium-portable
+module github.com/actaeon123/ungoogled-chromium-portable
 
 go 1.23
 
